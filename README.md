@@ -1,3 +1,5 @@
+## [Ссылка на лендинг](https://sampre.github.io/Panakeia/)  
+
 ![](https://cloud.githubusercontent.com/assets/21279688/24831549/363c77d0-1ca4-11e7-9233-6b07906217f5.jpg)  
 
 # Panakeia Template  
